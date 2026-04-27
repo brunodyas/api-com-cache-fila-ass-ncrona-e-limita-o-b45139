@@ -1,0 +1,14 @@
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\bin\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.exe
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\bin\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.deps.json
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\bin\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\bin\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.dll
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\bin\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.pdb
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.AssemblyInfoInputs.cache
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.AssemblyInfo.cs
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.dll
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\refint\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.dll
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.pdb
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\api-com-cache-fila-ass-ncrona-e-limita-o-b45139\obj\Debug\net8.0\ref\api_com_cache_fila_ass_ncrona_e_limita_o_b45139.dll
